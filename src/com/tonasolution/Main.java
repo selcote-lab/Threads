@@ -24,8 +24,15 @@ public class Main {
             @Override
             public void run() {
                 System.out.println(ANSI_BLUE + " MyRunnable anonymous class");
+                try {
+                    anotherThread.join(2000);
+                    System.out.println(ANSI_BLUE + "Anotherthread terminated.So, I am running again");
+                } catch (InterruptedException e) {
+                    System.out.println(ANSI_BLUE + " I couldn't wait after all. I was interrupted");
+                }
             }
         }).start();
+//        anotherThread.interrupt();
         System.out.println(ANSI_CYAN + "Hello again from the main thread");
 
     }

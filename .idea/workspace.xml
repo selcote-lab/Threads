@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ade5ad9b-76c8-4a9f-83b6-27dc62e8cb4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/tonasolution/MyRunnable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Threads/com/tonasolution/AnotherThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Threads/com/tonasolution/AnotherThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Threads/com/tonasolution/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Threads/com/tonasolution/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Threads/com/tonasolution/Main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Threads/com/tonasolution/Main$2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Threads/com/tonasolution/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Threads/com/tonasolution/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/tonasolution/AnotherThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tonasolution/AnotherThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/tonasolution/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tonasolution/Main.java" afterDir="false" />
@@ -75,7 +74,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

@@ -9,9 +9,10 @@ public class AnotherThread extends Thread{
         System.out.println(ANSI_BLUE + "Hello from another thread : " + currentThread().getName());
 
         try {
-            sleep(3000);
+            sleep(5000);
         } catch (InterruptedException e) {
             System.out.println(ANSI_BLUE + "Another thread woke up me ");
+            return;
         }
 
         System.out.println(ANSI_BLUE + "Another thread: Three second passed");
