@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ade5ad9b-76c8-4a9f-83b6-27dc62e8cb4d" name="Default Changelist" comment="" />
+    <list default="true" id="ade5ad9b-76c8-4a9f-83b6-27dc62e8cb4d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/tonasolution/MyRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Threads/com/tonasolution/AnotherThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Threads/com/tonasolution/AnotherThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Threads/com/tonasolution/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Threads/com/tonasolution/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Threads/com/tonasolution/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Threads/com/tonasolution/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tonasolution/AnotherThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tonasolution/AnotherThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tonasolution/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tonasolution/Main.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1R64skBLXAnj2uPHh6goEIIlapn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -57,5 +69,16 @@
       <updated>1568974420942</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
